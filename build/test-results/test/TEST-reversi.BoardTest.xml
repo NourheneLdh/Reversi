@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="reversi.BoardTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-04-21T13:48:37" hostname="LAPTOP-4K667HRK" time="0.035">
+  <properties/>
+  <testcase name="testNoValidMoves()" classname="reversi.BoardTest" time="0.019"/>
+  <testcase name="testMakeMoveAndFlip()" classname="reversi.BoardTest" time="0.002"/>
+  <testcase name="testValidMove()" classname="reversi.BoardTest" time="0.001"/>
+  <testcase name="testInvalidMoveDoesNotChangeBoard()" classname="reversi.BoardTest" time="0.003"/>
+  <testcase name="testMakeMove()" classname="reversi.BoardTest" time="0.001"/>
+  <testcase name="testInitialization()" classname="reversi.BoardTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
